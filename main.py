@@ -17,7 +17,7 @@ normal_test_loader = DataLoader(normal_test_dataset, batch_size=1, shuffle=True)
 anomaly_train_loader = DataLoader(anomaly_train_dataset, batch_size=30, shuffle=True) 
 anomaly_test_loader = DataLoader(anomaly_test_dataset, batch_size=1, shuffle=True)
 
-device = torch.device('cuda')
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 model = Learner(input_dim=2048, drop_p=0.0).to(device)
 optimizer = torch.optim.Adagrad(model.parameters(), lr= 0.001, weight_decay=0.0010000000474974513)
