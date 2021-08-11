@@ -34,6 +34,13 @@ python main.py
 | [RTFM](https://arxiv.org/pdf/2101.10030.pdf) (I3D RGB) | UCF-Crimes | 84.03 |
 | Ours Re-implementation (I3D two stream) | UCF-Crimes | 84.45 |
 
+## Visualization
+
+<table>
+  <tr>
+    <td><img alt="" src="./sample.gif" /></td> <td><img alt="" src="./result.png" height="280" width="400" />
+  <tr>
+</table>
 
 ## Acknowledgment
 
