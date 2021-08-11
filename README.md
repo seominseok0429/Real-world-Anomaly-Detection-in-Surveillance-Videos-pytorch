@@ -38,7 +38,7 @@ python main.py
 
 <table>
   <tr>
-    <td><img alt="" src="./sample.gif" /></td> <td><img alt="" src="./result.png" height="280" width="400" />
+    <td><img alt="" src="./sam.gif" /></td> <td><img alt="" src="./result.png" height="280" width="400" />
   <tr>
 </table>
 
