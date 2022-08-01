@@ -2,7 +2,7 @@
 
 This repository is a re-implementation of "Real-world Anomaly Detection in Surveillance Videos" with pytorch. As a result of our re-implementation, we achieved a much higher AUC than the [original implementation](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018).
 
-Ours full code available at [CODE](https://drive.google.com/file/d/1DMJR4cR97FzDXfmfPgg6LKeE7LT7x79d/view?usp=sharing)
+Ours full code available at [CODE](https://drive.google.com/file/d/1xYsBiCSmXjE0BwoiH_Bcm4AWaA1pESHF/view?usp=sharing)
 
 ## Datasets
 
